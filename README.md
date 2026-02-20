@@ -22,4 +22,3 @@ There will be a lot of contributors... I hope this goes well.
 ## Goals:
 - Practice the clone-branch-edit-add-commit-push workflow
 
-- Create and review Pull Requests
