@@ -16,3 +16,6 @@ elif (choice == "emmett"):
    emmett.emmett_mad_lib()
 elif (choice == "audrey"):
    audrey.audrey_mad_lib()
+if (choice == "eve"): 
+   eve.eve_mad_lib()
+
