@@ -9,4 +9,5 @@ choice = choice.lower()
 
 if (choice == "chupzi"):
    chupzi.chupzi_mad_lib()
-
+elif(choice=="sai"):
+   sai.sai_mad_lib()
