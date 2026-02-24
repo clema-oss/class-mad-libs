@@ -18,4 +18,5 @@ elif (choice == "audrey"):
    audrey.audrey_mad_lib()
 if (choice == "eve"): 
    eve.eve_mad_lib()
-
+if (choice == "zoe"):
+   zoe.zoe_mad_lib()
