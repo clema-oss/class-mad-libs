@@ -12,3 +12,5 @@ if (choice == "chupzi"):
 
 elif(choice=="Meital"):
    Meital.Meital_mad_lib()
+elif (choice == "emmett"):
+   emmett.emmett_mad_lib()
