@@ -23,5 +23,7 @@ elif (choice == "eve"):
    eve.eve_mad_lib()
 elif (choice == "zoe"):
    zoe.zoe_mad_lib()
+elif (choice == "tanner"):
+   print(tanner.mad_lib())
 else:
   pass
