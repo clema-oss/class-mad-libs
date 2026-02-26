@@ -14,7 +14,7 @@ elif(choice=="sai"):
 elif(choice=="eli"):
    eli.eli_mad_lib()
 elif(choice=="Meital"):
-   Meital.Meital_mad_lib()
+   meital.meital_mad_lib()
 elif (choice == "emmett"):
    emmett.emmett_mad_lib()
 elif (choice == "audrey"):
