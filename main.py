@@ -9,6 +9,8 @@ choice = choice.lower()
 
 if (choice == "chupzi"):
    chupzi.chupzi_mad_lib()
+elif(choice=="eli"):
+   eli.eli_mad_lib()
 
 elif(choice=="Meital"):
    Meital.Meital_mad_lib()
