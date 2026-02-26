@@ -20,4 +20,6 @@ def meital_mad_lib():
     pluralNoun4 = input("Enter another plural noun: ")
 
     print("A vacation is when you take a trip to some", adj1, "place with your", adj2, "family. Usually you go to some place that is near a/an", noun1, "or up on a/an", noun2, ". A good vacation place is one where you can ride", pluralNoun1, "or play", game, "or go hunting for", pluralNoun2, ". I like to spend my time", ingVerb1, "or", ingVerb2, ". When parents go on a vacation, they spend their time eating three", pluralNoun3, "a day, and fathers play golf, and mothers sit around", ingVerb3, ".")
-meital_mad_lib()
+
+if __name__ == "__main__":
+    meital_mad_lib()

@@ -21,4 +21,6 @@ def audrey_mad_lib():
     pn4 = input("Enter plural noun: ")
 
     print("A vaction is when you take a trip to some", a1, "place with your", a2, "family. Usually you go to some place that is near a/an", n1, "or up on a/an", n2, ". A good vacation place is one where you can ride", pn1, "or play", g1, "or go hunting for", pn2, ". I like to spend my time", ge1, "or", ge2, ". When parents go on a vaction, they spend their time eating three", pn3, "a day, and father play golf, and mothers sit around", ge3, ". Last summer, my little brother fell in a/an", n3, "and got poision", pl1, "all over his", pob1, ". My family is going to go to (the)", p1, ",and I will practice", ge4, ". Parents need vacations more than kids becuase parents are always very", a3, "and becuase they have to work", num, "hours every day all year making enough", pn4, "to pay for the vacation." )
-audrey_mad_lib()
+
+if __name__ == "__main__":
+    audrey_mad_lib()

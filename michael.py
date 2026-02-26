@@ -11,4 +11,5 @@ def michael_mad_lib():
     print("Signed:")
     print(sig)
 
-michael_mad_lib()
+if __name__ == "__main__":
+    michael_mad_lib()

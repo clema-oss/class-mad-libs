@@ -9,4 +9,5 @@ def eli_mad_lib():
     print(name, "is too cool for", noun, "class. Instead", pronoun, "will be attending the", event + ".")
     print("Signed:", signature)
 
-eli_mad_lib()
+if __name__ == "__main__":
+    eli_mad_lib()

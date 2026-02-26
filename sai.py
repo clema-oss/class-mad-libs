@@ -9,4 +9,7 @@ def sai_mad_lib():
     print("Date:", date)
     print(name, "is too cool for", noun, "class. Instead", pronoun, "will be attending the", event + ".")
     print("Signed:", signature)
-sai_mad_lib()    
+
+if __name__ == "__main__":
+    sai_mad_lib()
+
